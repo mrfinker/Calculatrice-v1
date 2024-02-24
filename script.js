@@ -2,4 +2,4 @@ let timeNow = new Date();
 
 console.log(timeNow.getHours());
 console.log(timeNow.getMinutes());
-console.log(timeNow.getSeconds());
+console.log(setInterval);
