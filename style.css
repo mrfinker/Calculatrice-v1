@@ -50,3 +50,8 @@ body {
   width: 100%;
   background-color: #fa1;
 }
+
+.calculatrice span.plus {
+  grid-row: span 2;
+  height: 100;
+}
