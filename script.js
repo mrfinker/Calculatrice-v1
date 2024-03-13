@@ -6,4 +6,4 @@ console.log(timeNow);
 
 
 
-// exactly your know now my man
+// exactly your know now my mann
